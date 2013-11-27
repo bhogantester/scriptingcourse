@@ -25,7 +25,7 @@ print "When you type \\n in code it turns into a new line:"
 print "\n^ up here!"
 
 # Print a string inside a variable
-strvar = "planetfe;hoiagrho'iaegrlhiaegr"
+strvar = "planet"
 
 print "\nHello %s !!!" % strvar
 
